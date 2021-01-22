@@ -20,4 +20,4 @@ export default props => (
       fillRule="evenodd"
     />
   </svg>
-)
+);
